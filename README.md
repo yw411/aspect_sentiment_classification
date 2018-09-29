@@ -65,7 +65,7 @@ attention的方法，但是又略有不同。向量中每一个维度都有一�
 
 在2的基础上改进，attention中target的更新，不是简单的相加，而是使用了一个gru结构来进行更新。
 
-#### 利用情感词典、词性等信息
+#### 利用情感词典、词性等信息 位置信息
 
 7、基于多注意力卷积神经网络的特定目标情感分析
 
@@ -89,10 +89,40 @@ entity networks的应用
 
 #### 层次化方法   针对文档级别，分层次
 
+18、A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis
+
+每个文本由多个review组成，每个review先进行bi-lstm，然后多个review之间再lstm，输入同时包括review相对应的target
+
+19、一种用于基于方面情感分析的深度分层网络模型
+
+作者在18的基础上进行改进，先cnn再lstm，但是lstm的输入多了一项s，s：文本整体上进行lstm的最后一个结果，但是这个lstm时，hi会和target进行结合再输入到下一个。略微复杂
+
+20、Aspect Sentiment Classification with both Word-level and Clause-level Attention Networks    ijcai2018
+
+这个比较简单，就是先识别出多个clause，每个clause代表一个target的review，然后每个clause应用lstm-att，然后clause之间再应用lstm-att，但是aspect始终是同一个，并没有像18一样每个review有自己的aspect。
+
+21、Document-level Multi-aspect Sentiment Classification by Jointly Modeling Users, Aspects, and Overall Ratings
+
+引入了user、整体评论打分信息。和22有点像，每个d和一个aspect有一个classier，k个aspect得到k个classier（类似于multi-task）。先是word-level，att的时候有user和aspect信息，然后是sentence-level，得到文本表示后，和整体评分r向量和user向量结合。
+
+22、Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension
+
+一个文本d有多个aspect，每个d和一个aspect作为输入得到一个classiser，k个aspect得到k个classier。内部有点复杂
+
+#### coling2018补充 （这个会议上有好几篇aspect方面的文章），总体上还是lstm+att
+
+23、A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis
+
+作者想强调位置信息的引入，但是吸引我的是网络架构：先给每个target的每个词得到一个权重，然后target和context进行交互得到一个句子，在target每个词下，文本每个词都有一个相对应的权重，然后加权相加得到该词下的文本表示。最后，target中每个词有一个权重，然后有一个对应的文本表示，加权相加得到最后的文本表示。
+
+24、Effective Attention Modeling for Aspect-Level Sentiment Classification
+
+作者在
+
 ## 结果比较
 
 ## 我的一些思路
 
-1、针对term-target级别，有一个想法：来自Gated-Attention Readers for Text Comprehension这篇文章，target不更新，而是更新每个词多次，有2篇文章就是这个思路：
+1、针对term-target级别，有一个想法：来自Gated-Attention Readers for Text Comprehension这篇文章，target不更新，而是更新每个词多次，有1篇文章就是这个思路：Transformation Networks for Target-Oriented Sentiment Classification
 
 2、针对category-aspect级别，暂时有一个思路，还在写代码。
