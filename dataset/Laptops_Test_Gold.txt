@@ -1,0 +1,638 @@
+1		Boot time		Boot time is super fast , around anywhere from 35 seconds to 1 minute .
+-1		tech support		tech support would not fix the problem unless I bought your plan for $ 150 plus .
+1		Set up		Set up was easy .
+-1		Windows 8		Did not enjoy the new Windows 8 and touchscreen functions .
+-1		touchscreen functions		Did not enjoy the new Windows 8 and touchscreen functions .
+-1		internal speakers		Other than not being a fan of click pads -LRB- industry standard these days -RRB- and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .
+1		price tag		Other than not being a fan of click pads -LRB- industry standard these days -RRB- and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .
+-1		click pads		Other than not being a fan of click pads -LRB- industry standard these days -RRB- and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .
+0		installation disk (DVD)		No installation disk (DVD) is included .
+1		use		It 's fast , light , and simple to use .
+1		Works		Works well , and I am extremely happy to be back to an apple OS .
+1		apple OS		Works well , and I am extremely happy to be back to an apple OS .
+1		features		Sure it 's not light and slim but the features make up for it 100 % .
+1		log on		I am pleased with the fast log on , speedy WiFi connection and the long battery life -LRB- > 6 hrs -RRB- .
+1		WiFi connection		I am pleased with the fast log on , speedy WiFi connection and the long battery life -LRB- > 6 hrs -RRB- .
+1		battery life		I am pleased with the fast log on , speedy WiFi connection and the long battery life -LRB- > 6 hrs -RRB- .
+-1		delete key		The Apple engineers have not yet discovered the delete key .
+-1		interneting		Made interneting -LRB- part of my business -RRB- very difficult to maintain .
+1		priced		Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .
+1		works		Super light , super sexy and everything just works .
+-1		track pad		Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .
+1		graphics		It is super fast and has outstanding graphics .
+-1		mountain lion		But the mountain lion is just too slow .
+1		durability		Strong build though which really adds to its durability .
+1		build		Strong build though which really adds to its durability .
+1		battery life		The battery life is excellent - 6-7 hours without charging .
+1		works		I 've had my computer for 2 weeks already and it works perfectly .
+1		Windows 8		And I may be the only one but I am really liking Windows 8 .
+1		baterry		The baterry is very longer .
+1		size		Its size is ideal and the weight is acceptable .
+1		weight		Its size is ideal and the weight is acceptable .
+1		performance		I can say that I am fully satisfied with the performance that the computer has supplied .
+-1		USB ports		This laptop has only 2 USB ports , and they are both on the same side .
+1		speed		It has so much more speed and the screen is very sharp .
+1		screen		It has so much more speed and the screen is very sharp .
+1		price		Everything I wanted and everything I needed and the price was great !
+1		Hardware performance		It 's not inexpensive but the Hardware performance is impressive for a computer this small .
+1		works		This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .
+1		set up		This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .
+1		Keyboard		Keyboard responds well to presses .
+-1		Windows 8		Lastly , Windows 8 is annoying .
+1		setup		Everything is so easy and intuitive to setup or configure .
+1		configure		Everything is so easy and intuitive to setup or configure .
+-1		Windows 8		Biggest complaint is Windows 8 .
+-1		usb ports		Only 2 usb ports ... seems kind of ... limited .
+1		features		It has all the expected features and more + plus a wide screen and more than roomy keyboard .
+1		screen		It has all the expected features and more + plus a wide screen and more than roomy keyboard .
+1		keyboard		It has all the expected features and more + plus a wide screen and more than roomy keyboard .
+1		Performance		Amazing Performance for anything I throw at it .
+1		quality		The receiver was full of superlatives for the quality and performance .
+1		performance		The receiver was full of superlatives for the quality and performance .
+1		OS		I was extremely happy with the OS itself .
+1		portability		The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .
+1		portable computing		The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .
+-1		Windows 8		I would have given it 5 starts was it not for the fact that it had Windows 8
+1		MS Office 2011 for Mac		MS Office 2011 for Mac is wonderful , well worth it .
+-1		performance		But the performance of Mac Mini is a huge disappointment .
+1		look		They do n't just look good ; they deliver excellent performance .
+1		performance		They do n't just look good ; they deliver excellent performance .
+1		lit up keys		I have had it over a year now with out a Glitch of any kind . . I love the lit up keys and screen display ... this thing is Fast and clear as can be .
+1		screen display		I have had it over a year now with out a Glitch of any kind . . I love the lit up keys and screen display ... this thing is Fast and clear as can be .
+1		Mountain Lion OS		The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .
+0		Microsoft Windows		The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .
+-1		OSX		However , I can refute that OSX is `` FAST '' .
+1		Microsoft Office		Enjoy using Microsoft Office !
+1		graphics		Incredible graphics and brilliant colors .
+1		colors		Incredible graphics and brilliant colors .
+1		Built-in apps		Built-in apps are purely amazing .
+-1		Screen resolution		Cons : Screen resolution .
+1		operating system		From the speed to the multi touch gestures this operating system beats Windows easily .
+-1		Windows		From the speed to the multi touch gestures this operating system beats Windows easily .
+1		speed		From the speed to the multi touch gestures this operating system beats Windows easily .
+1		multi touch gestures		From the speed to the multi touch gestures this operating system beats Windows easily .
+1		size		I really like the size and I 'm a fan of the ACERS .
+1		SquareTrade 3-Year Computer Accidental Protection Warranty		I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty -LRB- $ 1500-2000 -RRB- which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .
+-1		AppleCare		I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty -LRB- $ 1500-2000 -RRB- which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .
+1		transport		It 's light and easy to transport .
+-1		Windows 8 Set-Up		Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .
+0		size		It 's been time for a new laptop , and the only debate was which size of the Mac laptops , and whether to spring for the retina display .
+0		retina display		It 's been time for a new laptop , and the only debate was which size of the Mac laptops , and whether to spring for the retina display .
+1		design		The reason why I choose apple MacBook because of their design and the aluminum casing .
+1		aluminum casing		The reason why I choose apple MacBook because of their design and the aluminum casing .
+1		aluminum body		The aluminum body sure makes it stand out .
+1		integrate bluetooth devices		It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .
+1		USB devices		It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .
+-1		Intel4000 graphic chip		And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered -LRB- to me .
+0		DVD drive Firewire port		Apple removed the DVD drive Firewire port -LRB- will work with adapter -RRB- and put the SDXC slot in a silly position on the back .
+0		adapter		Apple removed the DVD drive Firewire port -LRB- will work with adapter -RRB- and put the SDXC slot in a silly position on the back .
+-1		SDXC slot		Apple removed the DVD drive Firewire port -LRB- will work with adapter -RRB- and put the SDXC slot in a silly position on the back .
+1		durability		The durability of the laptop will make it worth the money .
+1		designed		Well designed and fast .
+1		use		But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .
+1		value		Exactly as posted plus a great value .
+1		specs		The specs are pretty good too .
+1		product quality		Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .
+1		aesthetics		Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .
+1		craftmanship		Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .
+1		customer service		Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .
+1		size		It is a great size and amazing windows 8 included !
+1		windows 8		It is a great size and amazing windows 8 included !
+-1		Windows 8		I do not like too much Windows 8 .
+-1		Startup times		Startup times are incredibly long : over two minutes .
+1		colors		Also stunning colors and speedy
+1		price		great price free shipping what else can i ask for !!
+1		shipping		great price free shipping what else can i ask for !!
+1		mouse		This mouse is terrific .
+0		battery		It is really thick around the battery .
+1		windows 7		And windows 7 works like a charm .
+1		price		:-RRB- Great product , great price , great delivery , and great service .
+1		delivery		:-RRB- Great product , great price , great delivery , and great service .
+1		service		:-RRB- Great product , great price , great delivery , and great service .
+1		customer service		:] It arrived so fast and customer service was great .
+-1		windows 8		tried windows 8 and hated it !!!
+1		Set up		Set up was a breeze .
+-1		Win8		But I do NOT like Win8 .
+0		features		I am still in the process of learning about its features .
+-1		price		I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .
+-1		OSX		I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .
+-1		support for games		I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .
+1		mobility		I wanted it for it 's mobility and man , this little bad boy is very nice .
+1		set up		I found the mini to be : Exceptionally easy to set up
+1		USB3		Having USB3 is why I bought this Mini .
+1		sound		The sound is nice and loud ; I do n't have any problems with hearing anything .
+1		track pad		It is very slim , the track pad is very much impressed with me .
+-1		settings		The settings are not user-friendly either .
+1		OpenOffice		Thank goodness for OpenOffice !
+1		form factor		Awesome form factor , great battery life , wonderful UX .
+1		battery life		Awesome form factor , great battery life , wonderful UX .
+1		UX		Awesome form factor , great battery life , wonderful UX .
+1		keyboard		i love the keyboard and the screen .
+1		screen		i love the keyboard and the screen .
+-1		touchpad		However , there are MAJOR issues with the touchpad which render the device nearly useless .
+1		Mavericks		I 've already upgraded o Mavericks and I am impressed with everything about this computer .
+-1		i5		Not as fast as I would have expect for an i5 .
+1		service		thanks for great service and shipping !
+1		shipping		thanks for great service and shipping !
+1		performance		The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .
+1		built-in applications		The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .
+1		iPhoto		The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .
+0		hard drive		I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .
+1		Samsung 830 SSD		I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .
+1		Starts up		Starts up in a hurry and everything is ready to go .
+-1		aluminum		Yes , that 's a good thing , but it 's made from aluminum that scratches easily .
+1		built in virus control		Quick and has built in virus control .
+0		retina display		Took a long time trying to decide between one with retina display and one without .
+-1		components		I was also informed that the components of the Mac Book were dirty .
+-1		hardware		the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !
+1		battery		It 's so nice that the battery last so long and that this machine has the snow lion !
+1		snow lion		It 's so nice that the battery last so long and that this machine has the snow lion !
+-1		shipping		HOWEVER I chose two day shipping and it took over a week to arrive .
+1		features		it 's exactly what i wanted , and it has all the new features and whatnot .
+1		quality		Can you buy any laptop that matches the quality of a MacBook ?
+-1		keyboard		It feels cheap , the keyboard is not very sensitive .
+-1		sound quality		Though please note that sometimes it crashes , and the sound quality isnt superb .
+1		navigate		It is very easy to navigate even for a novice .
+1		battery life		Does everything I need it to , has a wonderful battery life and I could n't be happier .
+1		Performance		Great Performance and Quality .
+1		Quality		Great Performance and Quality .
+0		windows XP		I used windows XP , windows Vista , and Windows 7 extensively .
+0		windows Vista		I used windows XP , windows Vista , and Windows 7 extensively .
+0		Windows 7		I used windows XP , windows Vista , and Windows 7 extensively .
+0		SSD drive		I did add a SSD drive and memory
+0		memory		I did add a SSD drive and memory
+-1		start up		On start up it asks endless questions just so itune can sell you more of their products .
+-1		itune		On start up it asks endless questions just so itune can sell you more of their products .
+0		OS		I Have been a Pc user for a very long time now but I will get used to this new OS .
+-1		restore disks		One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .
+-1		charging cables		One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .
+-1		material		One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .
+0		graphic design		I bought it to my son who uses it for graphic design .
+0		external mics		I never tried any external mics with that iMac .
+1		os		The new os is great on my macbook pro !
+1		works		I have experienced no problems , works as anticipated .
+1		System		System is running great .
+1		customize setting		Easy to customize setting and even create your own bookmarks .
+1		create your own bookmarks		Easy to customize setting and even create your own bookmarks .
+0		wireless keyboard / mouse		The MAC Mini , wireless keyboard / mouse and a HDMI cable is all I need to get some real work done .
+0		HDMI cable		The MAC Mini , wireless keyboard / mouse and a HDMI cable is all I need to get some real work done .
+1		features		it has all the features that we expected and the price was good , working well so far .
+1		price		it has all the features that we expected and the price was good , working well so far .
+1		working		it has all the features that we expected and the price was good , working well so far .
+0		gaming		I work as a designer and coder and I needed a new buddy to work with , not gaming .
+1		operating system		The new operating system makes this computer into a super iPad .
+1		set up		Easy to set up and go !
+1		hard drive		I ca n't believe how quiet the hard drive is and how quick this thing boots up .
+1		boots up		I ca n't believe how quiet the hard drive is and how quick this thing boots up .
+-1		scanning		The only issue came when I tried scanning to the mac .
+0		price point		I think this is about as good as it gets at anything close to this price point .
+1		works		It 's just what we were looking for and it works great .
+1		working		It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !
+1		surfing		It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !
+1		works		It works fine , and all the software seems to run pretty well .
+1		software		It works fine , and all the software seems to run pretty well .
+0		word processing		I 'm using this computer for word processing , web browsing , some gaming , and I 'm learning programming .
+0		web browsing		I 'm using this computer for word processing , web browsing , some gaming , and I 'm learning programming .
+0		gaming		I 'm using this computer for word processing , web browsing , some gaming , and I 'm learning programming .
+0		programming		I 'm using this computer for word processing , web browsing , some gaming , and I 'm learning programming .
+-1		function		My wife was so excited to open the box , but quickly came to see that it did not function as it should .
+0		performance		I wanted a computer that was quite , fast , and that had overall great performance .
+-1		Apple "Help"		Apple "Help" is a mixed bag .
+-1		work		It suddenly can not work .
+-1		Harddrive		Harddrive was in poor condition , had to replace it .
+-1		on/off switch		The on/off switch is a bit obscure in the rear corner .
+-1		instructions		My only complaint is the total lack of instructions that come with the mac mini .
+-1		gaming		The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .
+1		content creation		I use it mostly for content creation -LRB- Audio , video , photo editing -RRB- and its reliable .
+1		Audio		I use it mostly for content creation -LRB- Audio , video , photo editing -RRB- and its reliable .
+1		video		I use it mostly for content creation -LRB- Audio , video , photo editing -RRB- and its reliable .
+1		photo editing		I use it mostly for content creation -LRB- Audio , video , photo editing -RRB- and its reliable .
+1		Screen		Screen is bright and gorgeous .
+0		brightness		The only solution is to turn the brightness down , etc. .
+0		applications		If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications .
+1		use		It is robust , with a friendly use as all Apple products .
+1		use		It is fast and easy to use .
+1		i5 processor		And the fact that it comes with an i5 processor definitely speeds things up
+1		built in features		I have been PC for years but this computer is intuitive and its built in features are a great help
+1		screen		Nice screen , keyboard works great !
+1		keyboard		Nice screen , keyboard works great !
+1		delivery		I was amazed at how fast the delivery was .
+0		SSD		I 've installed to it additional SSD and 16Gb RAM .
+0		16Gb RAM		I 've installed to it additional SSD and 16Gb RAM .
+-1		memory		The memory was gone and it was not able to be used .
+1		works		It works great and I am so happy I bought it .
+1		design		I like the design and ease of use with the keyboard , plenty of ports .
+1		keyboard		I like the design and ease of use with the keyboard , plenty of ports .
+1		ports		I like the design and ease of use with the keyboard , plenty of ports .
+1		service		it definitely beats my old mac and the service was great .
+1		Web browsing		Web browsing is very quick with Safari browser .
+1		Safari browser		Web browsing is very quick with Safari browser .
+1		lighted screen		I like the lighted screen at night .
+1		use		It is really easy to use and it is quick to start up .
+1		start up		It is really easy to use and it is quick to start up .
+-1		operation		I 've lived with the crashes and slow operation and restarts .
+1		USB3 Peripherals		USB3 Peripherals are noticably less expensive than the ThunderBolt ones .
+-1		ThunderBolt		USB3 Peripherals are noticably less expensive than the ThunderBolt ones .
+1		warranty		And mine had broke but I sent it in under warranty - no problems .
+1		media editing		It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .
+1		battery		The battery lasts as advertised -LRB- give or take 15-20 minutes -RRB- , and the entire user experience is very elegant .
+1		user experience		The battery lasts as advertised -LRB- give or take 15-20 minutes -RRB- , and the entire user experience is very elegant .
+1		shipment		Thanks for the fast shipment and great price .
+1		price		Thanks for the fast shipment and great price .
+1		performance		! Excelent performance , usability , presentation and time response .
+1		usability		! Excelent performance , usability , presentation and time response .
+1		presentation		! Excelent performance , usability , presentation and time response .
+1		time response		! Excelent performance , usability , presentation and time response .
+1		size		The smaller size was a bonus because of space restrictions .
+-1		Mac OS		I blame the Mac OS .
+0		Legacy programs		In fact I still use many Legacy programs -LRB- Appleworks , FileMaker Pro , Quicken , Photoshop etc -RRB- !
+0		Appleworks		In fact I still use manyLegacy programs -LRB- Appleworks , FileMaker Pro , Quicken , Photoshop etc -RRB- !
+0		FileMaker Pro		In fact I still use manyLegacy programs -LRB- Appleworks , FileMaker Pro , Quicken , Photoshop etc -RRB- !
+0		Quicken		In fact I still use manyLegacy programs -LRB- Appleworks , FileMaker Pro , Quicken , Photoshop etc -RRB- !
+0		Photoshop		In fact I still use manyLegacy programs -LRB- Appleworks , FileMaker Pro , Quicken , Photoshop etc -RRB- !
+1		operating system		I like the operating system .
+1		form factor		I love the form factor .
+1		loading the internet		It 's fast at loading the internet .
+1		looking		So much faster and sleeker looking .
+0		XP		Unfortunately , it runs XP and Microsoft is dropping support next April .
+-1		support		Unfortunately , it runs XP and Microsoft is dropping support next April .
+1		OS		First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .
+1		overall build		First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .
+1		keyboard		First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .
+1		construction		It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .
+0		system		It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .
+1		unibody construction		Very nice unibody construction .
+1		runs		This Macbook Pro is fast , powerful , and runs super quiet and cool .
+0		disk drive		It 's ok but does n't have a disk drive which I did n't know until after I bought it .
+0		HDMI receptacle		There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .
+0		SD card slot		There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .
+1		works		It came in brand new and works perfectly .
+0		design app		It should n't happen like that , I do n't have any design app open or anything .
+-1		TRACKPAD		MY TRACKPAD IS NOT WORKING .
+1		finish		It looks and feels solid , with a flawless finish .
+1		looks		It looks and feels solid , with a flawless finish .
+1		feels		It looks and feels solid , with a flawless finish .
+-1		Price		Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .
+1		price		Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .
+-1		system		Then the system would many times not power down without a forced power-off .
+-1		power down		Then the system would many times not power down without a forced power-off .
+1		configuration		The configuration is perfect for my needs .
+-1		speakers		and the speakers is the worst ever .
+1		looks		Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! . .
+1		use		Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! . .
+1		trackpad		Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! . .
+1		Web surfuring		Web surfuring is smooth and seamless .
+1		interface		I 'm overall pleased with the interface and the portability of this product .
+1		portability		I 'm overall pleased with the interface and the portability of this product .
+1		works		This item is a beautiful piece , it works well , it is easy to carry and handle .
+1		carry		This item is a beautiful piece , it works well , it is easy to carry and handle .
+1		handle		This item is a beautiful piece , it works well , it is easy to carry and handle .
+-1		performance		It was also suffering from hardware -LRB- keyboard -RRB- issues , relatively slow performance and shortening battery lifetime .
+-1		battery lifetime		It was also suffering from hardware -LRB- keyboard -RRB- issues , relatively slow performance and shortening battery lifetime .
+-1		hardware (keyboard)		It was also suffering from hardware (keyboard) issues , relatively slow performance and shortening battery lifetime .
+1		Runs		Runs good and does the job , ca n't complain about that !
+1		footprint		It 's silent and has a very small footprint on my desk .
+1		exterior		The exterior is absolutely gorgeous .
+1		performance		It has a very high performance , just for what I needed for .
+0		intel 4000 graphics chipset		Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .
+0		design		Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .
+0		OSX Mountain Lion		OSX Mountain Lion soon to upgrade to Mavericks .
+0		Mavericks		OSX Mountain Lion soon to upgrade to Mavericks .
+-1		USB ports		I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .
+0		lid		It wakes in less than a second when I open the lid .
+1		wakes		It wakes in less than a second when I open the lid .
+1		size		It is the perfect size and speed for me .
+1		speed		It is the perfect size and speed for me .
+1		CUSTOMER SERVICE		THE CUSTOMER SERVICE IS TERRIFIC !!
+1		performed		My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .
+1		battery cycle count		However , it did not have any scratches , ZERO battery cycle count -LRB- pretty surprised -RRB- , and all the hardware seemed to be working perfectly .
+1		hardware		However , it did not have any scratches , ZERO battery cycle count -LRB- pretty surprised -RRB- , and all the hardware seemed to be working perfectly .
+-1		OS		After fumbling around with the OS I started searching the internet for a fix and found a number of forums on fixing the issue .
+-1		finger swipes		And as for all the fancy finger swipes -- I just gave up and attached a mouse .
+0		mouse		And as for all the fancy finger swipes -- I just gave up and attached a mouse .
+0		storage		I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .
+0		screen		I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .
+0		photoshop		I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .
+1		Mac OS		I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .
+-1		speaker quality		I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .
+1		Shipped		Shipped very quickly and safely .
+1		thunderbolt port		The thunderbolt port is awesome !
+1		performance		The performance is definitely superior to any computer I 've ever put my hands on .
+1		streaming video		It 's great for streaming video and other entertainment uses .
+1		entertainment uses		It 's great for streaming video and other entertainment uses .
+1		design		I like the design and its features but there are somethings I think needs to be improved .
+1		features		I like the design and its features but there are somethings I think needs to be improved .
+-1		Mac office		There were small problems with Mac office .
+0		Apple Tech Support		I understand I should call Apple Tech Support about any variables -LRB- which is my purpose of writing this con -RRB- as variables could be a bigger future problem .
+-1		spec		I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs .
+1		works		It still works and it 's extremely user friendly , so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things
+1		use		Its fast , easy to use and it looks great .
+1		looks		Its fast , easy to use and it looks great .
+0		Office		-LRB- but Office can be purchased -RRB- IF I ever need a laptop again I am for sure purchasing another Toshiba !!
+0		retina display		I have n't tried the one with retina display ... Maybe in the future .
+1		Performance		Performance is much much better on the Pro , especially if you install an SSD on it .
+1		SSD		Performance is much much better on the Pro , especially if you install an SSD on it .
+0		MagSafe accessories		Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .
+-1		MagSafe 2 connection		Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .
+-1		touchpad		The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .
+0		mouse		The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .
+1		runs		The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc
+1		fans		The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc
+-1		Mac OS		MAYBE The Mac OS improvement were not The product they Want to offer .
+0		Mac ecosystem		I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .
+1		price		It 's absolutely wonderful and worth the price !
+1		use		I am please with the products ease of use ; out of the box ready ; appearance and functionality .
+1		appearance		I am please with the products ease of use ; out of the box ready ; appearance and functionality .
+1		functionality		I am please with the products ease of use ; out of the box ready ; appearance and functionality .
+1		graphic design		Perfect for all my graphic design classes I 'm taking this year in college : - -RRB-
+-1		slot		I will not be using that slot again .
+1		OS		The OS is fast and fluid , everything is organized and it 's just beautiful .
+1		use		They are simpler to use .
+1		SSD		! so nice . . stable . . fast . . now i got my SSD !
+0		built-in camera		Also , in using the built-in camera , my voice recording for my vlog sounds like the interplanetary transmissions in the `` Star Wars '' saga .
+-1		voice recording		Also , in using the built-in camera , my voice recording for my vlog sounds like the interplanetary transmissions in the `` Star Wars '' saga .
+1		start up		I love the quick start up .
+1		functionality		You just can not beat the functionality of an Apple device .
+1		function		Yet my mac continues to function properly .
+1		Graphics		Graphics are much improved .
+1		Build Quality		Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .
+1		unibody construction		Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .
+1		flexibility for connectivity		It provides much more flexibility for connectivity .
+1		portability		I want the portability of a tablet , without the limitations of a tablet and that 's where this laptop comes into play .
+1		Mac tutorials		Mac tutorials do help .
+-1		technical support		The technical support was not helpful as well .
+0		adapter		I got the new adapter and there was no change .
+0		technical support		so i called technical support .
+0		iPhoto		Came with iPhoto and garage band already loaded .
+0		garage band		Came with iPhoto and garage band already loaded .
+1		Logic board		Logic board utterly fried , cried , and laid down and died .
+-1		sound		The sound was crappy even when you turn up the volume still the same results .
+-1		volume		The sound was crappy even when you turn up the volume still the same results .
+1		OSX Lion		OSX Lion is a great performer . . extremely fast and reliable .
+-1		application		Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .
+1		physical form		The Macbook pro 's physical form is wonderful .
+1		body		The Mini 's body has n't changed since late 2010 - and for a good reason .
+1		unibody construction		The unibody construction really does feel lot more solid than Apple 's previous laptops .
+-1		3D rendering		3D rendering slows it down considerably .
+0		OS X Mountain Lion		Got this Mac Mini with OS X Mountain Lion for my wife .
+1		screen		fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098 + tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax - 1070 - OTD !
+1		apps		fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098 + tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax - 1070 - OTD !
+0		priced		fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098 + tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax - 1070 - OTD !
+0		cost		fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098 + tax - plus i had a 10 % off coupon from amazon - cost me 998 plus tax - 1070 - OTD !
+0		boot		12.44 seconds to boot .
+0		ports		All the ports are much needed since this is my main computer .
+0		Quad-Core 2.5 GHz CPU		The Like New condition of the iMac MC309LL/A on Amazon is at $ 900 + level only , and it is a Quad-Core 2.5 GHz CPU -LRB- similar to the $ 799 Mini -RRB- , with Radeon HD 6750M 512MB graphic card -LRB- this mini is integrated Intel 4000 card -RRB- , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+0		Radeon HD 6750M 512MB graphic card		The Like New condition of the iMac MC309LL/A on Amazon is at $ 900 + level only , and it is a Quad-Core 2.5 GHz CPU -LRB- similar to the $ 799 Mini -RRB- , with Radeon HD 6750M 512MB graphic card -LRB- this mini is integrated Intel 4000 card -RRB- , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+0		integrated Intel 4000 card		The Like New condition of the iMac MC309LL/A on Amazon is at $ 900 + level only , and it is a Quad-Core 2.5 GHz CPU -LRB- similar to the $ 799 Mini -RRB- , with Radeon HD 6750M 512MB graphic card -LRB- this mini is integrated Intel 4000 card -RRB- , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+0		wireless Apple Keyboard and Mouse		The Like New condition of the iMac MC309LL/A on Amazon is at $ 900 + level only , and it is a Quad-Core 2.5 GHz CPU -LRB- similar to the $ 799 Mini -RRB- , with Radeon HD 6750M 512MB graphic card -LRB- this mini is integrated Intel 4000 card -RRB- , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+1		package		The Like New condition of the iMac MC309LL/A on Amazon is at $ 900 + level only , and it is a Quad-Core 2.5 GHz CPU -LRB- similar to the $ 799 Mini -RRB- , with Radeon HD 6750M 512MB graphic card -LRB- this mini is integrated Intel 4000 card -RRB- , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .
+0		cover		Put a cover on it and is a little better but that is my only complaint .
+1		gestures		Within a few hours I was using the gestures unconsciously .
+0		extender cable		This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .
+1		cable		This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .
+1		2.9ghz dual-core i7 chip		The 2.9ghz dual-core i7 chip really out does itself .
+1		starts up		It is pretty snappy and starts up in about 30 seconds which is good enough for me .
+0		Windows 8		Not sure on Windows 8 .
+-1		internal CD drive		My one complaint is that there was no internal CD drive .
+0		hard drive		This newer netbook has no hard drive or network lights .
+0		network lights		This newer netbook has no hard drive or network lights .
+0		priced		I was having a though time deciding between the 13 '' MacBook Air or the MacBook Pro 13 '' -LRB- Both baseline models , priced at 1,200 $ retail -RRB-
+1		storage		Not too expense and has enough storage for most users and many ports .
+1		ports		Not too expense and has enough storage for most users and many ports .
+-1		audio volume		The audio volume is quite low and virtually unusable in a room with any background activity .
+1		size		It is lightweight and the perfect size to carry to class .
+0		Windows 8		I was given a demonstration of Windows 8 .
+1		capabilities		The MBP is beautiful has many wonderful capabilities .
+0		settings		I thought that it will be fine , if i do some settings .
+1		Runs		Runs very smoothly .
+-1		Boot-up		Boot-up slowed significantly after all Windows updates were installed .
+-1		Windows updates		Boot-up slowed significantly after all Windows updates were installed .
+-1		logic board		More likely it will require replacing the logic board once they admit they have a problem and come up with a solution .
+1		internet		It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .
+1		word processing		It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .
+1		graphic design		It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .
+1		gaming		It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .
+1		setup		I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+1		install		I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+0		tutorial		I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+0		features		I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+0		right mouse click menu		I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .
+1		Runs		Runs real quick .
+1		RAM memory		Buy the separate RAM memory and you will have a rocket !
+-1		profile		Since the machine 's slim profile is critical to me , that was a problem .
+1		disk drive		WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .
+1		USB ports		WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .
+1		WiFi capability		WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .
+-1		SD card reader		The SD card reader is slightly recessed and upside down -LRB- the nail slot on the card can not be accessed -RRB- , if this was a self ejecting slot this would not be an issue , but its not .
+-1		nail slot on the card		The SD card reader is slightly recessed and upside down -LRB- the nail slot on the card can not be accessed -RRB- , if this was a self ejecting slot this would not be an issue , but its not .
+-1		slot		The SD card reader is slightly recessed and upside down -LRB- the nail slot on the card can not be accessed -RRB- , if this was a self ejecting slot this would not be an issue , but its not .
+1		touch		Soft touch , anodized aluminum with laser cut precision and no flaws .
+1		anodized aluminum		Soft touch , anodized aluminum with laser cut precision and no flaws .
+1		aluminium		Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .
+1		glass		Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .
+1		aluminum		First of all yes this is a mac and it has that nice brushed aluminum .
+0		16GB of RAM		After all was said and done , I essentially used that $ 450 savings to buy 16GB of RAM , TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive .
+0		Seagate Momentus XT hybrid drives		After all was said and done , I essentially used that $ 450 savings to buy 16GB of RAM , TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive .
+0		OWC upgrade kit		After all was said and done , I essentially used that $ 450 savings to buy 16GB of RAM , TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive .
+0		hard drive		After all was said and done , I essentially used that $ 450 savings to buy 16GB of RAM , TWO Seagate Momentus XT hybrid drives and an OWC upgrade kit to install the second hard drive .
+1		number pad on the keyboard		The Dell Inspiron is fast and has a number pad on the keyboard , which I miss on my Apple laptops .
+1		regular hard drive		I was concerned that the downgrade to the regular hard drive would make it unacceptably slow but I need not have worried - this machine is the fastest I have ever owned ...
+0		CD slot		This one still has the CD slot .
+0		HDMI port		No HDMI port .
+-1		install Mountain Lion		I had to install Mountain Lion and it took a good two hours .
+-1		Customization		Customization on mac is impossible .
+0		HD		I am replacing the HD with a Micron SSD soon .
+0		Micron SSD		I am replacing the HD with a Micron SSD soon .
+1		two finger clicking		Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .
+0		right click button		Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .
+1		SuperDrive		The SuperDrive is quiet .
+-1		power plug		The power plug has to be connected to the power adaptor to charge the battery but wo n't stay connected .
+0		power adaptor		The power plug has to be connected to the power adaptor to charge the battery but wo n't stay connected .
+0		battery		The power plug has to be connected to the power adaptor to charge the battery but wo n't stay connected .
+-1		battery		The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .
+1		practicality		if yo like practicality this is the laptop for you .
+1		OS		The OS is great .
+0		monitors		I tried several monitors and several HDMI cables and this was the case each time .
+0		HDMI cables		I tried several monitors and several HDMI cables and this was the case each time .
+-1		Price		CONS : Price is a bit ridiculous , kinda heavy .
+0		AC adaptor		The troubleshooting said it was the AC adaptor so we ordered a new one .
+0		Fan		Fan only comes on when you are playing a game .
+0		playing a game		Fan only comes on when you are playing a game .
+0		USB 2 ports		Which it did not have , only 3 USB 2 ports .
+0		startup disk		No startup disk was not included but that may be my fault .
+0		"tools" menu		There is no "tools" menu .
+-1		word program		It is very fast and has everything that I need except for a word program .
+0		CD/DVD drive		Needs a CD/DVD drive and a bigger power switch .
+-1		power switch		Needs a CD/DVD drive and a bigger power switch .
+-1		Windows 7		My laptop with Windows 7 crashed and I did not want Windows 8 .
+-1		Windows 8		My laptop with Windows 7 crashed and I did not want Windows 8 .
+1		install		Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .
+1		configure for ADSl cable or wifi		Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .
+1		packing		Nice packing .
+1		windows		I switched to this because I wanted something different , even though I miss windows .
+-1		iDVD		Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !
+1		Windows 7		I also wanted Windows 7 , which this one has .
+-1		Mac system		At first , I feel a little bit uncomfortable in using the Mac system .
+0		windows		I am used to computers with windows so I am having a little difficulty finding my way around .
+1		works		It just works out of the box and you have a lot of cool software included with the OS .
+1		software		It just works out of the box and you have a lot of cool software included with the OS .
+0		OS		It just works out of the box and you have a lot of cool software included with the OS .
+1		works		its as advertised on here ... it works great and is not a waste of money !
+1		Runs		Runs like a champ ...
+1		price		Premium price for the OS more than anything else .
+0		OS		Premium price for the OS more than anything else .
+1		touch pad		I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .
+0		headphones		The sound as mentioned earlier is n't the best , but it can be solved with headphones .
+1		OS		However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .
+1		application		However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .
+-1		price		If you ask me , for this price it should be included .
+-1		battery		The battery is not as shown in the product photos .
+1		Shipping		Shipping was quick and product described was the product sent and so much more ...
+1		retina display display		the retina display display make pictures i took years ago jaw dropping .
+1		compact computing		The Mac Mini is probably the simplest example of compact computing out there .
+0		performance and feature set of the hardware		Instead , I 'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy .
+0		ports		Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .
+0		FireWire 800		Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .
+0		Gigabit Ethernet		Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .
+0		MagSafe port		Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .
+0		Microphone jack		Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .
+-1		ventilation system		Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .
+0		watching videos		Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .
+0		playing steam games		Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .
+0		Acer support		Chatting with Acer support , I was advised the problem was corrupted operating system files .
+0		operating system files		Chatting with Acer support , I was advised the problem was corrupted operating system files .
+0		keys		It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys -LRB- but that was expected -RRB- .
+-1		OS		Many people complain about the new OS , and it 's urgent for Apple to fix it asap !
+1		Lion		Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .
+1		MAC OS		Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .
+1		RAM		User upgradeable RAM and HDD .
+1		HDD		User upgradeable RAM and HDD .
+1		CD/DVD player		But I wanted the Pro for the CD/DVD player .
+0		os.x		I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .
+1		windows		I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .
+0		windows		I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .
+0		OS		With the softwares supporting the use of other OS makes it much better .
+0		softwares		With the softwares supporting the use of other OS makes it much better .
+0		Mac OS X 10.8 "Mountain Lion"		I then upgraded to Mac OS X 10.8 "Mountain Lion" .
+1		performance		I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .
+0		built in screen size		At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important .
+0		external 24" LCD screen		At home and the office it gets plugged into an external 24" LCD screen , so built in screen size is not terribly important .
+-1		install software		Just beware no DVD slot so when I went to install software I had on CD I could n't .
+0		DVD slot		Just beware no DVD slot so when I went to install software I had on CD I could n't .
+0		word processing program		I bought it to be able to dedicate a small , portable laptop to my writing and was surprised to learn that I needed to buy a word processing program to do so .
+0		third-generation CPU ("Ivy Bridge")		This version of MacBook Pro runs on a third-generation CPU ("Ivy Bridge") , not the latest fourth-generation Haswell CPU the 2013 version has .
+0		fourth-generation Haswell CPU		This version of MacBook Pro runs on a third-generation CPU -LRB- `` Ivy Bridge '' -RRB- , not the latest fourth-generation Haswell CPU the 2013 version has .
+0		Cd Rom		No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .
+-1		features		No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .
+-1		volume		the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer
+-1		volume		the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer
+0		case		and its not hard to accidentally bang it against something so i recommend getting a case to protect it .
+1		price		I got this at an amazing price from Amazon and it arrived just in time .
+-1		log into the system		Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .
+0		21" LED screen		Put a SSD and use a 21" LED screen , this set up is silky smooth !
+0		SSD		Put a SSD and use a 21 '' LED screen , this set up is silky smooth !
+1		set up		Put a SSD and use a 21 '' LED screen , this set up is silky smooth !
+-1		case		The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .
+0		external power supply		The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .
+0		wireless mouse		I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .
+-1		pad		I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .
+1		works		I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .
+0		key board		I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .
+0		cost of ownership		When considering a Mac , look at the total cost of ownership and not just the initial price tag .
+0		price tag		When considering a Mac , look at the total cost of ownership and not just the initial price tag .
+1		features		Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+0		VGA port		Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+0		HDMI		Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+0		ethernet		Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+0		USB ports		Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .
+-1		rubber pads		The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .
+0		price		It 's a decent computer for the price and hopefully it will last a long time .
+1		heat output		The nicest part is the low heat output and ultra quiet operation .
+1		operation		The nicest part is the low heat output and ultra quiet operation .
+1		upgrade the ram		I will upgrade the ram myself -LRB- because with this model you can you can do it -RRB- later on .
+1		price		The price is 200 dollars down .
+0		built-in mic		this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .
+-1		Mac OS 10.9		this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .
+0		external microphones		this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .
+0		features		A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .
+0		shortcuts		A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .
+1		IOS system		Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .
+1		resolution		air has higher resolution but the fonts are small .
+-1		fonts		air has higher resolution but the fonts are small .
+1		working		working with Mac is so much easier , so many cool features .
+1		features		working with Mac is so much easier , so many cool features .
+1		brightness		I like the brightness and adjustments .
+1		adjustments		I like the brightness and adjustments .
+0		CD/DVD player		I only wish this mac had a CD/DVD player built in .
+-1		backlit keys		The only thing I miss is that my old Alienware laptop had backlit keys .
+0		"Home/End" type keys		The only thing I miss are the "Home/End" type keys and other things that I grew accustomed to after so long .
+0		Microsoft Word		So happy with this purchase , I just wish it came with Microsoft Word .
+1		memory		It has enough memory and speed to run my business with all the flexibility that comes with a laptop .
+1		speed		It has enough memory and speed to run my business with all the flexibility that comes with a laptop .
+1		flexibility		It has enough memory and speed to run my business with all the flexibility that comes with a laptop .
+1		speed		The speed , the simplicity , the design . . it is lightyears ahead of any PC I have ever owned .
+1		simplicity		The speed , the simplicity , the design . . it is lightyears ahead of any PC I have ever owned .
+1		design		The speed , the simplicity , the design . . it is lightyears ahead of any PC I have ever owned .
+1		battery life		The battery life is excellent , the display is excellent , and downloading apps is a breeze .
+1		display		The battery life is excellent , the display is excellent , and downloading apps is a breeze .
+1		downloading apps		The battery life is excellent , the display is excellent , and downloading apps is a breeze .
+1		screen		The screen , the software and the smoothness of the operating system .
+1		software		The screen , the software and the smoothness of the operating system .
+1		operating system		The screen , the software and the smoothness of the operating system .
+0		slim plastic case		i have dropped mine a couple times with only a slim plastic case covering it .
+0		recovery USB stick		I also made a recovery USB stick .
+-1		bass		But with this laptop , the bass is very weak and the sound comes out sounding tinny .
+-1		sound		But with this laptop , the bass is very weak and the sound comes out sounding tinny .
+1		built quality		The built quality is really good , I was so Happy and excited about this Product .
+1		performance		I am loving the fast performance also .
+-1		Bluetooth interface		Further , this Mac Mini has a sloppy Bluetooth interface -LRB- courtesy of the Mac OS -RRB- and the range is poor .
+-1		Mac OS		Further , this Mac Mini has a sloppy Bluetooth interface -LRB- courtesy of the Mac OS -RRB- and the range is poor .
+-1		range		Further , this Mac Mini has a sloppy Bluetooth interface -LRB- courtesy of the Mac OS -RRB- and the range is poor .
+0		start menu		If you start on the far right side and scroll to your left the start menu will automatically come up .
+-1		RAM		My only gripe would be the need to add more RAM .
+0		touch screen		Fine if you have a touch screen .
+0		games		As far as user type - I dabble in everything from games -LRB- WoW -RRB- to Photoshop , but nothing professionally .
+0		Photoshop		As far as user type - I dabble in everything from games -LRB- WoW -RRB- to Photoshop , but nothing professionally .
+0		"WLAN" card		I re-seated the "WLAN" card inside and re-installed the LAN device drivers .
+0		LAN device drivers		I re-seated the `` WLAN '' card inside and re-installed the LAN device drivers .
+1		built		This by far beats any computer out on the market today built well , battery life AMAZING .
+1		battery life		This by far beats any computer out on the market today built well , battery life AMAZING .
+1		OS		The OS is easy , and offers all kinds of surprises .
+0		Apple Customer Support		I had to get Apple Customer Support to correct the problem .
+1		Firewire 800		A veryimportant feature is Firewire 800 which in my experience works better then USB3 -LRB- in PC enabled with USB3 -RRB- I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+-1		USB3		A veryimportant feature is Firewire 800 which in my experience works better then USB3 -LRB- in PC enabled with USB3 -RRB- I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+0		USB3		A veryimportant feature is Firewire 800 which in my experience works better then USB3 -LRB- in PC enabled with USB3 -RRB- I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+-1		MAC OS		A veryimportant feature is Firewire 800 which in my experience works better then USB3 -LRB- in PC enabled with USB3 -RRB- I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+1		Windows 7		A veryimportant feature is Firewire 800 which in my experience works better then USB3 -LRB- in PC enabled with USB3 -RRB- I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .
+1		iTunes		I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .
+1		security		I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .
+1		Mini form factor		I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .
+1		graphics stuff		I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .
+-1		card reader		The first time I used the card reader it took half an hour and a pair of tweezers to remove the card .
+-1		remove the card		The first time I used the card reader it took half an hour and a pair of tweezers to remove the card .
+0		spinning hard disk		After replacing the spinning hard disk with an ssd drive , my mac is just flying .
+1		ssd drive		After replacing the spinning hard disk with an ssd drive , my mac is just flying .
+0		HDMI		I know some people complained about HDMI issues but they released a firmware patch to address that issue .
+0		firmware patch		I know some people complained about HDMI issues but they released a firmware patch to address that issue .
+0		specs		With the needs of a professional photographer I generally need to keep up with the best specs .
+1		packing		packing and everything was perfect
+0		mother boards		I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .
+-1		Mother Board		I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .
+-1		graphics card		I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .
+0		4G of RAM		It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .
+0		8G of RAM		It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .
+1		performs		It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .
+1		virtual home schooling		This computer is also awesome for my sons virtual home schooling .
+-1		Cost		Cost is more as compared to other brands .
+1		operating system		also ... - excellent operating system - size and weight for optimal mobility - excellent durability of the battery - the functions provided by the trackpad is unmatched by any other brand -
+1		size		also ... - excellent operating system - size and weight for optimal mobility - excellent durability of the battery - the functions provided by the trackpad is unmatched by any other brand -
+1		weight		also ... - excellent operating system - size and weight for optimal mobility - excellent durability of the battery - the functions provided by the trackpad is unmatched by any other brand -
+1		mobility		also ... - excellent operating system - size and weight for optimal mobility - excellent durability of the battery - the functions provided by the trackpad is unmatched by any other brand -
+1		durability of the battery		also ... - excellent operating system - size and weight for optimal mobility - excellent durability of the battery - the functions provided by the trackpad is unmatched by any other brand -
+1		functions provided by the trackpad		also ... - excellent operating system - size and weight for optimal mobility - excellent durability of the battery - the functions provided by the trackpad is unmatched by any other brand -
+1		hardware		This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .
+0		software		I 've had it for about 2 months now and found no issues with software or updates .
+0		updates		I 've had it for about 2 months now and found no issues with software or updates .
+0		disc drive		the latest version does not have a disc drive .
+1		Screen		Screen - although some people might complain about low res which I think is ridiculous .
+1		res		Screen - although some people might complain about low res which I think is ridiculous .
