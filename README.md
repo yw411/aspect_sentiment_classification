@@ -29,6 +29,14 @@ semeval评测会议有相关数据集和任务，大多数论文都使用这些�
 
 使用了fusion attention机制，待理解。
 
+5（1）：emnlp2018的新文章    Multi-grained Attention Network for Aspect-Level Sentiment Classification 
+
+在3的基础上，句子和aspect在单词粒度上进行交互得到一个矩阵，然后再进行加权。
+
+5（2）：Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
+
+文章的方法来自机器阅读的一篇文章，attention-over-attention neural networks for reading comprehension，也是在单词粒度上得到一个矩阵，完全是一个匹配问题。
+
 #### cnn 用这个网络的文章很少，目前看到了2篇，acl2018上有一篇。其实cnn的应用主要是提取短语、n-gram信息。
 
 6、Aspect Based Sentiment Analysis with Gated Convolutional Networks
@@ -86,6 +94,10 @@ attention的方法，但是又略有不同。向量中每一个维度都有一�
 17、Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-based Sentiment Analysis
 
 entity networks的应用
+
+172、Transformation Networks for Target-Oriented Sentiment Classification
+
+多跳机制，每次更新每个单词的表示，最后使用cnn提取。
 
 #### 层次化方法   针对文档级别，分层次
 
