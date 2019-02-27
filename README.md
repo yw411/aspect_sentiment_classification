@@ -139,6 +139,14 @@ entity networks的应用
 
 作者不断更新文本中每个单词的表示，根据target，最后用一个cnn来进行提取。
 
+27、Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network  （想法不错）
+
+针对category（aspect）方向，第一次attention，找出与aspect相关的word（也就是越相关，权重越大），加权求和后得到category的另一种表示，然后使用这个表示再次进行attention。（其实这里还可以改进一下，就是不知道效果好不好，结合A Position-aware Bidirectional Attention Network for Aspect-level Sentiment Analysis这篇文章）
+
+28、CAN: Constrained Attention Networks for Multi-Aspect SentimentAnalysis
+
+这篇文章的motivation是这些文章中最吸引我的，针对一个文本中有多个multi-aspect的情况，每个aspect的attention的稀疏的，不同aspect的attention应该是不重叠的，但是在at-lstm中针对multi-aspect情况，attention经常重叠，尤其是不同aspect情况，sentiment情况不同时，往往不能判断出正确的sentiment，经常是所有aspect的sentiment判为同一个，解决了这个问题，准确率可以提高很多。
+
 ## 结果比较
 
 Model | semeval2014-laptop | semeval2014-res(t) |semeval2014-res(c)|semeval2015|semeval2016|dong  |vo zhang
@@ -165,8 +173,15 @@ Model | semeval2014-laptop | semeval2014-res(t) |semeval2014-res(c)|semeval2015|
 26    |76.54               |80.79               |86.33             |/          |/               |------|------
 
 
-## 我的一些思路
+## 我的一些思路  （我觉得从抽象意义上讲还有点道理的）
 
 1、针对term-target级别，有一个想法：来自Gated-Attention Readers for Text Comprehension这篇文章，target不更新，而是更新每个词多次，有1篇文章就是这个思路：Transformation Networks for Target-Oriented Sentiment Classification
+在这个更新单词表示上，是否可以做到使用cnn的方法来更新单词呢
 
-2、针对category-aspect级别，暂时有一个思路，还在写代码。
+2、针对category-aspect级别，暂时有一个思路，还在写代码，
+但是效果没有跑出来（是模型的问题还是我的问题）
+
+3、考虑多信息（情感词、距离）是我觉得最重要的
+但是怎么把这些信息加入网络中却无法找到自己满意的答案，抽象来讲，一个词越是情感词，距离target越近，则权重应该越大，因此一个想法是
+文本与情感词典形成矩阵，通过相似度计算和softmax的方法，使得文本中的情感词的权重大（凸显出来），同时利用距离使得与target更相关的的情感词凸显出来。
+（w*word+w*aspect+w*sentiment_word）,可是这样好不好呢？ 
