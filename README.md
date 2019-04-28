@@ -37,6 +37,14 @@ semeval评测会议有相关数据集和任务，大多数论文都使用这些�
 
 文章的方法来自机器阅读的一篇文章，attention-over-attention neural networks for reading comprehension，也是在单词粒度上得到一个矩阵，完全是一个匹配问题。
 
+6、Target-Sensitive Memory Networks for Aspect Sentiment Classification
+
+更改了句子s的表示方式，多种。
+
+7、Content Attention Model for Aspect Based Sentiment Analysis
+
+左右分开，在attention中加入整个句子的表示
+
 #### cnn 用这个网络的文章很少，目前看到了2篇，acl2018上有一篇。其实cnn的应用主要是提取短语、n-gram信息。
 
 6、Aspect Based Sentiment Analysis with Gated Convolutional Networks
@@ -129,7 +137,11 @@ entity networks的应用
 
 24、“Iarm: Inter-aspect relation modeling with memory networks in aspect-based sentiment analysis,
 
-基本思路也是每个文本和aspect进行lstm-attention，然后aspect之间再进行lstm和
+基本思路也是每个文本和aspect进行lstm-attention，然后aspect之间再进行gru,计算方法比25复杂一些
+
+25 Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis
+
+基本思路也是每个文本和aspect进行lstm-attention，然后aspect之间再进行lstm
 
 #### coling2018补充 （这个会议上有好几篇aspect方面的文章），总体上还是lstm+att
 
@@ -156,6 +168,12 @@ entity networks的应用
 28、CAN: Constrained Attention Networks for Multi-Aspect SentimentAnalysis
 
 这篇文章的motivation是这些文章中最吸引我的，针对一个文本中有多个multi-aspect的情况，每个aspect的attention的稀疏的，不同aspect的attention应该是不重叠的，但是在at-lstm中针对multi-aspect情况，attention经常重叠，尤其是不同aspect情况，sentiment情况不同时，往往不能判断出正确的sentiment，经常是所有aspect的sentiment判为同一个，解决了这个问题，准确率可以提高很多。
+
+19年bert上有几篇文章
+
+29、
+
+30、
 
 ## 结果比较
 
