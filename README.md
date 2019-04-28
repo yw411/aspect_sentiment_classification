@@ -47,6 +47,8 @@ attention的方法，但是又略有不同。向量中每一个维度都有一�
 
 使用位置、词性、aspect这3种注意力，得到文本的更新表示，然后这3个表示，通过同构或异构的方式送入卷积网络，max-pooling。
 
+8、Parameterized Convolutional Neural Networks for Aspect Level sentiment analysis。 emnlp2018
+
 #### left-right 这个思路也有几篇文章。
 
 8、Effective LSTMs for Target-Dependent Sentiment Classification
