@@ -31,7 +31,7 @@ semeval评测会议有相关数据集和任务，大多数论文都使用这些�
 
 5（1）：emnlp2018的新文章    Multi-grained Attention Network for Aspect-Level Sentiment Classification 
 
-在3的基础上，句子和aspect在单词粒度上进行交互得到一个矩阵，然后再进行加权。
+在3的基础上，句子和aspect在单词粒度上进行交互得到一个矩阵，然后再进行加权。其中作者增加的loss是一个可取的想法
 
 5（2）：Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks
 
@@ -122,6 +122,14 @@ entity networks的应用
 22、Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension
 
 一个文本d有多个aspect，每个d和一个aspect作为输入得到一个classiser，k个aspect得到k个classier。内部有点复杂
+
+23、CAN---Constrained Attention Networks for Multi-Aspect Sentiment Analysis
+
+这个方法比较好，因为attention分布中确实是存在这2个问题
+
+24、“Iarm: Inter-aspect relation modeling with memory networks in aspect-based sentiment analysis,
+
+基本思路也是每个文本和aspect进行lstm-attention，然后aspect之间再进行lstm和
 
 #### coling2018补充 （这个会议上有好几篇aspect方面的文章），总体上还是lstm+att
 
