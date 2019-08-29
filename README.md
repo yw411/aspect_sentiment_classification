@@ -203,6 +203,15 @@ Model | semeval2014-laptop | semeval2014-res(t) |semeval2014-res(c)|semeval2015|
 
 ## 我的一些思路  （我觉得从抽象意义上讲还有点道理的）
 
+5、近来的发现，可以在这个方向上想想方法
+文本的数据结构有3种：
+（1）一个文本有一个aspect
+（2）一个文本有多个aspect，且类别相同
+（3）一个文本有多个aspect，且类别不同。
+针对第（3）种情况，出现的现象是模型往往把所有的aspect判断为同一个类别。在现有方法中，在最后将doc向量和aspect向量拼接然后进行softmax是一个解决方法，还可以想其他的解决方法，加入一些约束等。
+
+第2个现象：在之前某篇论文中有提到，aspect的单词数目不同时，准确率也不同，考虑aspect单词数目这个因素的影响。
+
 1、针对term-target级别，有一个想法：来自Gated-Attention Readers for Text Comprehension这篇文章，target不更新，而是更新每个词多次，有1篇文章就是这个思路：Transformation Networks for Target-Oriented Sentiment Classification
 在这个更新单词表示上，是否可以做到使用cnn的方法来更新单词呢
 
@@ -212,4 +221,13 @@ Model | semeval2014-laptop | semeval2014-res(t) |semeval2014-res(c)|semeval2015|
 3、考虑多信息（情感词、距离）是我觉得最重要的
 但是怎么把这些信息加入网络中却无法找到自己满意的答案，抽象来讲，一个词越是情感词，距离target越近，则权重应该越大，因此一个想法是
 文本与情感词典形成矩阵，通过相似度计算和softmax的方法，使得文本中的情感词的权重大（凸显出来），同时利用距离使得与target更相关的的情感词凸显出来。
-（w*word+w*aspect+w*sentiment_word）,可是这样好不好呢？ 
+（w*word+w*aspect+w*sentiment_word）,可是这样好不好呢？
+
+4、
+文本与情感词典形成矩阵，通过相似度计算和softmax的方法，使得文本中的情感词的权重大（凸显出来），同时利用距离使得与target更相关的的情感词凸显出来。的
+文本与情感词典形成矩阵，通过相似度计算和softmax的方法，使得文本中的情感词的权重大（凸显出来），同时利用距离使得与target更相关的的情感词凸显出来。
+
+
+
+
+
